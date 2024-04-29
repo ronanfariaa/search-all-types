@@ -1,0 +1,17 @@
+# Ignorar o diretório "arquivos"
+arquivos/
+
+# Ignorar os diretórios "Dissertações Umbraco" e "dissertacoes_Umbraco"
+Dissertações Umbraco/
+dissertacoes_Umbraco/
+docker/
+downloads/
+lololo/
+Robos-old/
+todospdfs/
+venv/
+Aut-find-Mov-json-by-RonanFaria.rar
+webScappingPagesRobo.js
+
+# Ignorar o diretório "node_modules"
+node_modules/
